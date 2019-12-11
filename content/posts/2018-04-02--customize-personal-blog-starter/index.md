@@ -1,16 +1,6 @@
 Node.js Hosting: Amazing (And Awful) Places To Host Your Node.js App in 2019.
 =============================================================================
 
-**Disclosure:** Your support helps keep the site running! We earn a referral fee for some of the services we recommend on this page. [Learn more](/full-disclosure/)
-
-![Katie Horne](https://www.gravatar.com/avatar/891d929bea17b776406d9419e36376a9?d=https%3A%2F%2Fwww.whoishostingthis.com%2Fwp-content%2Fuploads%2Favatars%2F06.png&s=150)
-
-![Katie Horne](https://www.gravatar.com/avatar/891d929bea17b776406d9419e36376a9?d=https%3A%2F%2Fwww.whoishostingthis.com%2Fwp-content%2Fuploads%2Favatars%2F06.png&s=150)
-
-##### by [Katie Horne](/authors/katie-horne/)
-
-Last updated: November 12, 2019
-
 Compare Node.js Hosting
 -----------------------
 
@@ -36,8 +26,6 @@ Compare Node.js Hosting
 -----------------------
 
 If you want to develop with Node.js, you will need to host to do it on. This article will help you to find the best host for your needs.
-
-![Compare Node.js Hosting](https://www.whoishostingthis.com/wp-content/uploads/2018/01/compare-node-jshosting.jpg)
 
 ![Compare Node.js Hosting](https://www.whoishostingthis.com/wp-content/uploads/2018/01/compare-node-jshosting.jpg)
 
