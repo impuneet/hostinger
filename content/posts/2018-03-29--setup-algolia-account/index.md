@@ -1,8 +1,18 @@
 ---
-title: Node.js Hosting: Amazing (And Awful) Places To Host Your Node.js App in 2020.
-subTitle: Node.js Hosting
-cover: https://www.whoishostingthis.com/wp-content/uploads/2018/01/compare-node-jshosting.jpg
+title: How to install, setup and add new content to the personalBlog starter
+subTitle: GatsbyJS starter instruction
+cover: photo-1465070845512-2b2dbdc6df66-cover.jpg
 ---
+
+You install the starter like any other [GatsbyJS starter](https://www.gatsbyjs.org/docs/gatsby-starters/).
+
+```
+gatsby new [NEW_SITE_DIRECTORY_FOR_YOUR_BLOG] https://github.com/greglobinski/gatsby-starter-personal-blog.git
+```
+
+...
+
+
 
 Node.js Hosting: Amazing (And Awful) Places To Host Your Node.js App in 2020.
 =============================================================================
