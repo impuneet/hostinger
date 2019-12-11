@@ -1,6 +1,6 @@
 ---
-title: Node.js Hosting: Amazing (And Awful) Places To Host Your Node.js App in 2020.
-subTitle: Compare Node.js Hosting
+title: Nodejs Hosting - Amazing (And Awful) Places To Host Your Nodejs App in 2020
+subTitle: Compare Nodejs Hosting
 cover: photo-1465070845512-2b2dbdc6df66-cover.jpg
 ---
 
