@@ -44,7 +44,7 @@ Compare Node.js Hosting
 
 If you want to develop with Node.js, you will need to host to do it on. This article will help you to find the best host for your needs.
 
-![Compare Node.js Hosting](https://www.whoishostingthis.com/wp-content/uploads/2018/01/compare-node-jshosting.jpg){ width=50% }
+![Compare Node.js Hosting](https://www.whoishostingthis.com/wp-content/uploads/2018/01/compare-node-jshosting.jpg | width=100) 
 
 
 What is Node.js?
