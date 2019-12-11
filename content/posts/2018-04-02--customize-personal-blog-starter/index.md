@@ -1,50 +1,72 @@
----
-title: How to customize the PersonalBlog starter's appearance
-subTitle: GatsbyJS starter instruction
-cover: photo-1463852247062-1bbca38f7805-cover.jpg
----
+Node.js Hosting: Amazing (And Awful) Places To Host Your Node.js App in 2019.
+=============================================================================
 
-The [starter](/gatsby-starter-personal-blog/) uses a theme object so base customization is really easy.
+**Disclosure:** Your support helps keep the site running! We earn a referral fee for some of the services we recommend on this page. [Learn more](/full-disclosure/)
 
-Find the `theme.js` file.
+![Katie Horne](https://www.gravatar.com/avatar/891d929bea17b776406d9419e36376a9?d=https%3A%2F%2Fwww.whoishostingthis.com%2Fwp-content%2Fuploads%2Favatars%2F06.png&s=150)
 
-```text
-root
-  ├── src
-  │   ├── styles
-  │   │   ├── colors.js
-  │   │   ├── globals.js
-  │   │   └── theme.js
-```
+![Katie Horne](https://www.gravatar.com/avatar/891d929bea17b776406d9419e36376a9?d=https%3A%2F%2Fwww.whoishostingthis.com%2Fwp-content%2Fuploads%2Favatars%2F06.png&s=150)
 
-...
+##### by [Katie Horne](/authors/katie-horne/)
 
-#### Front-end web development
+Last updated: November 12, 2019
 
-To read the whole instruction article - [How to customize the personalBlog starter's appearance](https://dev.greglobinski.com/customize-personal-blog-starter/) - you have to move to [Front-end web development with Greg](https://dev.greglobinski.com) website.
+Compare Node.js Hosting
+-----------------------
 
-...
+Used by businesses of all sizes, Node.js is a runtime environment for server-side JavaScript applications. It’s growing because it’s ideal for quickly building scalable, fast web applications. But, not all hosts are Node.js-friendly.
 
-Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
+You can run Node.js for free or cheap on a shared server — but you’ll be severely restricted.  VPS and dedicated servers are better options. Look for hosts that let you easily integrate Node.js apps with developer tools and APIs. Check any hosts upgrade policy — Node.js releases new versions, and your environment must be updated.
 
-![unsplash.com](./photo-1463852247062-1bbca38f7805.jpg)
+We’ll discuss each host later in this post, but here’s a summary of the best 5 hosts for Node.js:
+1.  [A2 Hosting](https://www.whoishostingthis.com/go/a2-hosting/?t=wiht015-v3_&track=WIHT-node-js&tag=node-js)
+2.  [Bluehost](https://www.whoishostingthis.com/go/bluehost/?t=wiht015-v3_&track=WIHT-node-js&tag=node-js)
+3.  [SiteGround](https://www.whoishostingthis.com/go/siteground/?t=wiht015-v3_&track=WIHT-node-js&tag=node-js) – Advanced priority support and Git comes pre-installed
+4.  [LiquidWeb](https://www.whoishostingthis.com/go/liquidweb/?t=wiht015-v3_&track=WIHT-node-js&tag=node-js)
+5.  [WebHostFace](https://www.whoishostingthis.com/go/webhostface/?t=wiht015-v3_&track=WIHT-node-js&tag=node-js)
 
-Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst.
+How Did We Pick the Best Hosts for Node.js?
+-------------------------------------------
 
-Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec. Integer gravida nisi ut magna mollis molestie. Nullam pharetra accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.
+To start, we worked through hosts that support Node.js. We sorted hosting plans, selecting those that offered a wide range of developer tools and technical support.
 
-### Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue.
+We prioritized hosts that made it easy to deploy, manage and scale your Node.js apps, integrating with Git and Heroku. We scaled down this list, vetting it against customer reviews.
 
-Praesent accumsan odio in ante ullamcorper id pellentesque mauris rhoncus. Duis vitae neque dolor. Duis sed purus at eros bibendum cursus nec a nulla. Donec turpis quam, ultricies id pretium sit amet, gravida eget leo.
+Compare Node.js Hosting
+-----------------------
 
-Proin ornare ligula eu tellus tempus elementum. . Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.
+If you want to develop with Node.js, you will need to host to do it on. This article will help you to find the best host for your needs.
 
-### Aenean bibendum iaculis mi, nec blandit lacus interdum vitae
+![Compare Node.js Hosting](https://www.whoishostingthis.com/wp-content/uploads/2018/01/compare-node-jshosting.jpg)
 
-Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit
+![Compare Node.js Hosting](https://www.whoishostingthis.com/wp-content/uploads/2018/01/compare-node-jshosting.jpg)
 
-### Donec hendrerit laoreet risus eget adipiscing.
+What is Node.js?
+----------------
 
-Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
+Node.js is an **event-driven** JavaScript run time environment and development framework built on Chrome’s V8 JavaScript engine.
 
-Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec. Integer gravida nisi ut magna mollis molestie. Nullam pharetra accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.
+### Server-Side Applications
+
+It can be used to build server-side web applications, and its architecture allows for massive scalability.
+
+In most conventional web server environments, requests are handled as single, discreet events: a request is made to the server, the server does something, and a response is sent back.
+
+### Getting Server Feedback
+
+This makes it difficult to get ongoing feedback, such as a file upload progress bar, or any kind of push notification.
+
+The usual way these things were done was essentially a hack: by sending a series of frequent requests over and over to check on the progress of the process.
+
+**Node.js was invented to provide a different way of handling client-server I/O (input/output).**
+
+Why Use JavaScript on a Server?
+-------------------------------
+
+JavaScript was originally designed as a **scripting language** for web browsers. It provides a way to add logic and computation to what is otherwise a document-reading application.
+
+### Javascript Is a Full-Featured Programming Language
+
+However, it is a **fully-featured programming language** and can be used in other contexts as well.
+
+The inventor of Node.js discovered that its I/O handling capabilities (or lack of them), and some of its other characteristics, made it **ideal** for writing an environment capable of asynchronous, _event-driven I/O_.
