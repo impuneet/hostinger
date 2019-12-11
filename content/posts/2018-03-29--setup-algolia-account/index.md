@@ -1,6 +1,6 @@
 ---
-title: How to install, setup and add new content to the personalBlog starter
-subTitle: GatsbyJS starter instruction
+title: Node.js Hosting: Amazing (And Awful) Places To Host Your Node.js App in 2020.
+subTitle: Compare Node.js Hosting
 cover: photo-1465070845512-2b2dbdc6df66-cover.jpg
 ---
 
@@ -44,7 +44,7 @@ Compare Node.js Hosting
 
 If you want to develop with Node.js, you will need to host to do it on. This article will help you to find the best host for your needs.
 
-![Compare Node.js Hosting](https://www.whoishostingthis.com/wp-content/uploads/2018/01/compare-node-jshosting.jpg)
+![Compare Node.js Hosting](https://www.whoishostingthis.com/wp-content/uploads/2018/01/compare-node-jshosting.jpg){ width=50% }
 
 
 What is Node.js?
