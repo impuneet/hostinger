@@ -1,12 +1,9 @@
 ---
 title:  2019's Best "VPS" Hosting Reviews
 subTitle: VPS Hosting
+category: hosting
 cover: photo-1465070845512-2b2dbdc6df66-cover.jpg
 ---
-
-```
-hosting ,  vps hosting
-```
 
 ...
 
