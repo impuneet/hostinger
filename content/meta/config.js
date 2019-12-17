@@ -1,10 +1,10 @@
 const colors = require("../../src/styles/colors");
 
 module.exports = {
-  siteTitle: "PersonalBlog - a blog starter for GatsbyJS", // <title>
-  shortSiteTitle: "PersonalBlog GatsbyJS Starter", // <title> ending for posts and pages
-  siteDescription: "PersonalBlog is a GatsbyJS starter.",
-  siteUrl: "https://gatsby-starter-personal-blog.greglobinski.com",
+  siteTitle: "HostingAdvize - A Hosting Reviews Consultant", // <title>
+  shortSiteTitle: "HostingAdvize - Choose your best Dev ops Partner", // <title> ending for posts and pages
+  siteDescription: "HostingAdvize - Your DevOps Consultant.",
+  siteUrl: "https://hostingadvize.co.in",
   pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
@@ -12,17 +12,17 @@ module.exports = {
   authorName: "Hosting Advize",
   authorTwitterAccount: "greglobinski",
   // info
-  infoTitle: "Hosting Advice & Consultant",
-  infoTitleNote: "personal blog",
+  infoTitle: "Hosting Advize",
+  infoTitleNote: "Hosting Advice & Consultant",
   // manifest.json
-  manifestName: "PersonalBlog - a blog starter for GatsbyJS",
+  manifestName: "Read Hosting Reviews and Decide the best",
   manifestShortName: "PersonalBlog", // max 12 characters
   manifestStartUrl: "/",
   manifestBackgroundColor: colors.background,
   manifestThemeColor: colors.background,
   manifestDisplay: "standalone",
   // contact
-  contactEmail: "john@doe.com",
+  contactEmail: "iampuneet.in@gmail.com",
   // social
   authorSocialLinks: [
     { name: "github", url: "https://github.com/greglobinski" },
