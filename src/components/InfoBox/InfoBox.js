@@ -71,7 +71,7 @@ class InfoBox extends React.Component {
 
     return (
       <aside
-        className={`${classes.infoBox} ${navigatorPosition ? navigatorPosition : ""} 
+        className={`${classes.infoBox} ${navigatorPosition ? navigatorPosition : ""}
         ${navigatorShape ? navigatorShape : ""}`}
       >
         {info && (
@@ -81,6 +81,7 @@ class InfoBox extends React.Component {
             expandOnClick={this.expandOnClick}
           />
         )}
+        <a href="https://www.a2hosting.com?aid=kajalsharma6123&amp;bid=a82d6fc3" target="_top"><img src="//affiliates.a2hosting.com/accounts/default1/banners/a82d6fc3.jpg" alt="" title="" width="336" height="280" /></a><img style="border:0" src="https://affiliates.a2hosting.com/scripts/imp.php?aid=kajalsharma6123&amp;bid=a82d6fc3" width="1" height="1" alt="" />
         <div className={classes.wrapper}>
           {info && <InfoText info={info} />}
           <SocialIcons />
