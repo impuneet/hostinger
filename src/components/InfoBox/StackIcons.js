@@ -66,7 +66,6 @@ const StackIcons = props => {
 
   return (
     <div className={classes.stack}>
-      <a href="https://www.a2hosting.com?aid=kajalsharma6123&amp;bid=ed1c4a67" target="_top"><img src="//affiliates.a2hosting.com/accounts/default1/banners/ed1c4a67.jpg" alt="" title="" width="728" height="90" /></a><img style="border:0" src="https://affiliates.a2hosting.com/scripts/imp.php?aid=kajalsharma6123&amp;bid=ed1c4a67" width="1" height="1" alt="" />
       <h5 className={classes.header}>built with:</h5>
       <div className={classes.box}>
         {items.map(item => {
