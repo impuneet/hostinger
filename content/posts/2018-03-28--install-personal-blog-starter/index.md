@@ -9,6 +9,7 @@ cover: photo-1465070845512-2b2dbdc6df66-cover.jpg
 
 #### 2019's Best "VPS" Hosting Reviews
 
+[Link for 60% Discount on a2hosting](http://www.a2hosting.com?aid=kajalsharma6123)
 ...
 
 Sure, we all love to talk up the scalability potential of virtual private server hosting and being able to virtualize computing resources, but it can sound like a bit of science fiction to those who don’t understand web hosting.

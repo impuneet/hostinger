@@ -9,6 +9,7 @@ cover: photo-1465070845512-2b2dbdc6df66-cover.jpg
 
 #### 5 Things to Know About Java Hosting
 
+[Link for 60% Discount on a2hosting](http://www.a2hosting.com?aid=kajalsharma6123)
 ...
 
 The use of Java for web-based applications is growing in popularity every year. The language itself, with its roots in application development, is mature, fast, very well-supported, and simple to deploy.
