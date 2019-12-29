@@ -32,7 +32,6 @@ A ready to use, easy to customize [GatsbyJS](https://github.com/gatsbyjs/gatsby)
 - Comments (Facebook)
 - Post categories
 - Post list filtering
-- Full text searching (Algolia)
 - Contact form (Netlify form handling)
 - Material UI (@next)
 - RSS feed
@@ -86,20 +85,12 @@ The starter uses external services for some functions: comments, searching, anal
 
 Create an `.env` file like below in the root folder. Change `...` placeholders with real data.
 
-```text
-GOOGLE_ANALYTICS_ID=...
-ALGOLIA_APP_ID=...
-ALGOLIA_SEARCH_ONLY_API_KEY=...
-ALGOLIA_ADMIN_API_KEY=...
-ALGOLIA_INDEX_NAME=...
-FB_APP_ID=...
-```
+
 
 ### Instructions & tutorials
 
 - [How to install, setup and add new content to a Blog starter](https://dev.greglobinski.com/install-blog-starter/)
 - [How to customize the PersonalBlog starter's appearance](https://dev.greglobinski.com/customize-personal-blog-starter/)
-- [Setup Algolia account for your GatsbyJS blog](https://dev.greglobinski.com/setup-algolia-account/)
 - More articles soon at [Front-end web development with Greg](https://dev.greglobinski.com/)
 
 ## Windows users

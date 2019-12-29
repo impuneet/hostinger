@@ -12,10 +12,7 @@ const SearchPage = props => {
 
   return (
     <Main>
-      <Article>
-        <PageHeader title="Search by" algolia={true} />
-        <Search algolia={data.site.siteMetadata.algolia} />
-      </Article>
+      <Article></Article>
     </Main>
   );
 };
@@ -27,16 +24,3 @@ SearchPage.propTypes = {
 export default SearchPage;
 
 //eslint-disable-next-line no-undef
-export const query = graphql`
-  query AlgoliaQuery {
-    site {
-      siteMetadata {
-        algolia {
-          appId
-          searchOnlyApiKey
-          indexName
-        }
-      }
-    }
-  }
-`;

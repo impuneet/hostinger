@@ -2,8 +2,6 @@ import React from "react";
 import PropTypes from "prop-types";
 import injectSheet from "react-jss";
 
-import AlgoliaIcon from "!svg-react-loader!../../images/svg-icons/algolia-full.svg?name=AlgoliaIcon";
-
 const styles = theme => ({
   header: {
     margin: "0 0 3em",
