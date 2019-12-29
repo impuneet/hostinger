@@ -111,6 +111,7 @@ const InfoHeader = props => {
 
   return (
     <header className={classes.header}>
+      <div className="cf-cta-snippet cta40924" website-id="9359" cta-id="40924"></div>
       <Link className={classes.avatarLink} onClick={avatarOnClick} to="/" title="back to Home page">
         <div className={classes.avatar}>
           <img src={avatar} alt="" />
