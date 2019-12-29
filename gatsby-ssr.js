@@ -61,16 +61,11 @@ exports.onRenderBody = ({ setPostBodyComponents }) => {
             s.parentNode.insertBefore(wf, s);
         })(document);`
       }}
-    />
-    <script
-      key={`convert-flow`}
-        (function(d) {
-            var wf = d.createElement('script'), s = d.scripts[0];
-            wf.src = 'https://js.convertflow.co/production/websites/9359.js';
-            wf.async = true;
-            s.parentNode.insertBefore(wf, s);
-        })(document);`
-      }}
-    />
+    />,
+   <script
+      key="3"
+      type="text/javascript"
+      src= "https://js.convertflow.co/production/websites/9359.js"
+    />,
   ]);
 };
