@@ -1,8 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
 import injectSheet from "react-jss";
-import { InstantSearch, SearchBox, Hits, Stats, Pagination } from "react-instantsearch/dom";
-
 import Hit from "./Hit";
 
 const styles = theme => ({
@@ -78,30 +76,13 @@ const styles = theme => ({
 });
 
 const Search = props => {
-  const { classes, algolia } = props;
+  const { classes } = props;
 
-  return (
-    <div className={classes.search}>
-      {algolia &&
-        algolia.appId && (
-          <InstantSearch
-            appId={algolia.appId}
-            apiKey={algolia.searchOnlyApiKey}
-            indexName={algolia.indexName}
-          >
-            <SearchBox translations={{ placeholder: "Search" }} />
-            <Stats />
-            <Hits hitComponent={Hit} />
-            <Pagination />
-          </InstantSearch>
-        )}
-    </div>
-  );
+  return <div className={classes.search}></div>;
 };
 
 Search.propTypes = {
-  classes: PropTypes.object.isRequired,
-  algolia: PropTypes.object.isRequired
+  classes: PropTypes.object.isRequired
 };
 
 export default injectSheet(styles)(Search);

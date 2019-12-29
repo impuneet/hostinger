@@ -14,7 +14,6 @@ The starter is a ready to use, easy to customize 'like theme' starter. It has ev
 * **Comments** (Facebook)
 * **Images** lazy loading and `webp` support (gatsby-image)
 * Post **categories** (post list filtering)
-* Full text **searching** (Algolia)
 * **Contact** form (Netlify form handling)
 * **RSS** feed
 * **PWA** (manifest.json, offline support, favicons)
