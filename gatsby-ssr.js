@@ -4,7 +4,6 @@ import { renderToString } from "react-dom/server";
 import React from "react";
 
 require("dotenv").config();
-
 import getPageContext from "./src/getPageContext";
 import createStore from "./src/state/store";
 import theme from "./src/styles/theme";
@@ -92,6 +91,16 @@ exports.onRenderBody = ({ setPostBodyComponents }) => {
         }}();
         drift.SNIPPET_VERSION = '0.3.1';
         drift.load('ub6dh8nrstad');`
+      }}
+    />,
+    <script
+      key="4"
+      type="text/javascript"
+      dangerouslySetInnerHTML={{
+        __html: `window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-155135587-2');`
       }}
     />
   ]);
