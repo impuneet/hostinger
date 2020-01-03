@@ -59,7 +59,7 @@ class ContactForm extends React.Component {
   };
 
   handleSubmit = e => {
-    fetch("/", {
+    fetch("https://mailthis.to/iampuneet.in@gmail.com", {
       method: "POST",
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
       body: encode({ "form-name": "contact", ...this.state })
