@@ -17,11 +17,6 @@ const Contact = () => {
     <Main>
       <Article>
         <PageHeader title="Contact" />
-        <div
-          className="typeform-widget"
-          data-url="https://pun4.typeform.com/to/o0MoOP"
-          style="width: 100%; height: 500px;"
-        ></div>
       </Article>
     </Main>
   );
