@@ -79,6 +79,15 @@ exports.onRenderBody = ({ setPostBodyComponents }) => {
       }}
     />,
     <script
+      key="6"
+      type="text/javascript"
+      dangerouslySetInnerHTML={{
+        __html: `(function(d) {
+          var qs,js,q,s, gi=d.getElementById, ce=d.createElement,gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) }
+        })(document);`
+      }}
+    />,
+    <script
       key="4"
       type="text/javascript"
       dangerouslySetInnerHTML={{

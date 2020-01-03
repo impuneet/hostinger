@@ -17,11 +17,11 @@ const Contact = () => {
     <Main>
       <Article>
         <PageHeader title="Contact" />
-        <Content>
-          Feel free to contact me by email: <Obfuscate email={config.contactEmail} /> or use the
-          form below.
-        </Content>
-        <Form />
+        <div
+          className="typeform-widget"
+          data-url="https://pun4.typeform.com/to/o0MoOP"
+          style="width: 100%; height: 500px;"
+        ></div>
       </Article>
     </Main>
   );
