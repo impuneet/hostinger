@@ -2,4 +2,4 @@
 title: author
 ---
 
-**Mr. Gatsby** Proin ornare ligula eu tellus tempus elementum. Aenean [bibendum](/) iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. :hearts:
+**Mr. Puneet** Mr Puneet is Full Stack developer.A Hosting Advisor to the customers who are building awesome products and providing Infrastrcuture enhancement of their product which leads to diminish the infra cost of the product.

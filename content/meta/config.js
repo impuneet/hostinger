@@ -13,7 +13,7 @@ module.exports = {
   authorTwitterAccount: "greglobinski",
   // info
   infoTitle: "Hosting Advize",
-  infoTitleNote: "Hosting Advice & Consultant",
+  infoTitleNote: "Puneet Sharma",
   // manifest.json
   manifestName: "Read Hosting Reviews and Decide the best",
   manifestShortName: "PersonalBlog", // max 12 characters

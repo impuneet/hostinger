@@ -1,7 +1,7 @@
 ---
 title:  5 Things to Know About Java Hosting
 subTitle: Java Hosting
-category: hosting,java,j2ee
+category: java-hosting
 cover: photo-1465070845512-2b2dbdc6df66-cover.jpg
 ---
 

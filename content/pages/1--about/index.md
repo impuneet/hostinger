@@ -2,13 +2,14 @@
 title: About
 ---
 
-This is a demo site of the [PersonalBlog](https://github.com/greglobinski/gatsby-starter-personal-blog) GatsbyJS starter.
+HostAdvize is the internet's web-hosting information center, covering dozens of hosting companies and services worldwide.
 
-The starter is a ready to use, easy to customize 'like theme' starter. It has everything what blog should have and some more.
+Every person who writes on HostAdvice is either a web hosting expert or an experienced customer. The HostAdvice community will help you find quality hosting services, companies you can trust, better deals, discount coupons and more.
+
+Results are clear and easy - comparing prices, money-back policy, support options and overall scores.
 
 ### Standard features:
 
-* Easy editable content in **Markdown** files (posts, pages and parts)
 * **SEO** (sitemap generation, robot.txt, meta and OpenGraph Tags)
 * **Social** sharing (Twitter, Facebook, Google, LinkedIn)
 * **Comments** (Facebook)
@@ -16,21 +17,7 @@ The starter is a ready to use, easy to customize 'like theme' starter. It has ev
 * Post **categories** (post list filtering)
 * **Contact** form (Netlify form handling)
 * **RSS** feed
-* **PWA** (manifest.json, offline support, favicons)
-* Google **Analytics**
-* **Favicons** generator (node script)
-* **Material UI** (@next)
-
-### Advanced features:
-
-* Easy customizable base **styles** via `theme` object (fonts, colors, sizes)
-* **Components** lazy loading (social sharing, comments)
-* **ESLint** (google config)
-* **Prettier** code styling
-* Custom webpack `CommonsChunkPlugin` settings
-* Webpack `BundleAnalyzerPlugin`
-* Contact **form validation** (react-material-ui-form-validator)
 
 ## Instructions
 
-For detailed instructions go to [Front-end web development with Greg](https://dev.greglobinski.com/gatsby-starter-personal-blog/).
+Whether you're an experienced customer or just getting started with website hosting - start with HostAdvice.
