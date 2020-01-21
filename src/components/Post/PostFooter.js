@@ -23,12 +23,13 @@ const PostShare = asyncComponent(() =>
     .then(module => {
       return module;
     })
-    .catch(error => {})
+    .catch(error => { })
 );
 
 const PostFooter = ({ classes, author, post, slug, facebook }) => {
   return (
     <footer className={classes.footer}>
+      <a href="https://lab.chemicloud.com/aff.php?aff=558"><img src="https://chemicloud.com/proud-white-transparent.svg" " border="0" alt="chemicloud.com hosting" /></a>
       <PostShare post={post} slug={slug} />
       <PostAuthor author={author} />
       <PostComments post={post} slug={slug} facebook={facebook} />
